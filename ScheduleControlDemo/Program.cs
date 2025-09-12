@@ -14,7 +14,6 @@ namespace ScheduleControlDemo
         [STAThread]
         static void Main()
         {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MDAxQDMyMzQyZTMwMmUzMGJoUUsva0l0TXhFa040TEk0NHRXcE9RWmIyOXBpaEszcU95cEpsU3hEMzA9");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
