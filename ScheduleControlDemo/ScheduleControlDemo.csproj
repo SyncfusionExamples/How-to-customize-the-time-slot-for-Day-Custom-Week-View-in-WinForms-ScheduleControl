@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1EE47A41-1DA9-40B5-9E18-7FD99CECB81D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ScheduleControl_Demo4_8</RootNamespace>
-    <AssemblyName>ScheduleControl_Demo4_8</AssemblyName>
+    <RootNamespace>ScheduleControlDemo</RootNamespace>
+    <AssemblyName>ScheduleControlDemo</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
